@@ -24,6 +24,6 @@ class temp(object):
     BANNED_USERS = []
     IS_FRWD_CHAT = []
 
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg - https://t.me/Main_chenal
+# Subscribe YouTube Channel For Amazing Bot https://t.me/HOLLYWOOD_UPDETE
+# Ask Doubt on telegram https://t.me/Main_chenal
